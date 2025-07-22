@@ -7,8 +7,8 @@ class Conexion:
 
     _DATABASE = 'test_db'
     _USERNAME = 'postgres'
-    _PASSWORD = 'admin'
-    _DB_PORT = '5432'
+    _PASSWORD = '****'
+    _DB_PORT = '****'
     _HOST = '127.0.0.1'
     _MIN_CON = 1
     _MAX_CON = 5
